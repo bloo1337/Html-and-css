@@ -1,0 +1,58 @@
+*{
+  margin:0;
+}
+
+.back-ground img{
+width:100%;
+
+}
+.header{
+  width:100%;
+  height:80px;
+  background-color: black;
+  position:fixed;
+  
+}
+.inner{
+  width:1300px;
+  height: 100%;
+  
+  display: block;
+  margin:0 auto;
+  position:fixed;
+}
+
+.inner img{
+  width:74px;
+  border-radius: 40px;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0 auto;
+
+}
+
+.everything nav{
+  float: right;
+  vertical-align: middle;
+  margin-top: 22px;
+  
+}
+.everything a{
+  height:100%;
+  display:table;
+  float:left;
+  padding:0 30px;
+  color:white;
+  display:table-cell;
+  text-decoration: none;
+  
+}
+.everything nav li{
+ display:table-cell;
+ vertical-align: middle;
+ height:100%;
+ float:left;
+ margin-right: 30px;
+ font-size:20px;
+ 
+}
